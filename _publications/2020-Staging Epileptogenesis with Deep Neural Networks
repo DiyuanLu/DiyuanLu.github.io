@@ -1,0 +1,16 @@
+---
+title: "Staging Epileptogenesis with Deep Neural Networks"
+collection: publications
+permalink: /publication/2020-09-01-staging-epileptogenesis
+excerpt: 'Utilizes deep neural networks for staging epileptogenesis.'
+date: 2020-09-01
+venue: 'ACM International Conference on Bioinformatics, Computational Biology and Health Informatics'
+paperurl: 'http://academicpages.github.io/files/staging_epileptogenesis.pdf'
+citation: 'Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2020). "Staging Epileptogenesis with Deep Neural Networks." <i>ACM International Conference on Bioinformatics, Computational Biology and Health Informatics</i>.'
+---
+
+This paper stages epileptogenesis using deep neural networks.
+
+[Download paper here](http://academicpages.github.io/files/staging_epileptogenesis.pdf)
+
+Recommended citation: Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2020). "Staging Epileptogenesis with Deep Neural Networks." *ACM International Conference on Bioinformatics, Computational Biology and Health Informatics*.
