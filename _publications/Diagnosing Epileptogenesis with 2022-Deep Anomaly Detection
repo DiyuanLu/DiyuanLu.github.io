@@ -1,0 +1,16 @@
+---
+title: "Diagnosing Epileptogenesis with Deep Anomaly Detection"
+collection: publications
+permalink: /publication/2022-08-01-epileptogenesis-diagnosis
+excerpt: 'This study applies deep anomaly detection for diagnosing epileptogenesis.'
+date: 2022-08-01
+venue: 'Machine Learning for Healthcare Conference'
+paperurl: 'http://academicpages.github.io/files/epileptogenesis_diagnosis.pdf'
+citation: 'Farahat, A., Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2022). "Diagnosing Epileptogenesis with Deep Anomaly Detection." <i>Machine Learning for Healthcare Conference</i>, 1–8.'
+---
+
+This study applies deep anomaly detection for diagnosing epileptogenesis.
+
+[Download paper here](http://academicpages.github.io/files/epileptogenesis_diagnosis.pdf)
+
+Recommended citation: Farahat, A., Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2022). "Diagnosing Epileptogenesis with Deep Anomaly Detection." *Machine Learning for Healthcare Conference*, 1–8.
