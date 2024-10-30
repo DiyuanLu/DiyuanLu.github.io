@@ -1,0 +1,16 @@
+---
+title: "Integrative Machine Learning Framework for Predicting Drug Response in Cancer Patients"
+collection: publications
+permalink: /publication/2024-01-04-predicting-drug-response
+excerpt: 'An integrative machine learning approach to predict drug response in cancer patients.'
+date: 2024-01-04
+venue: 'bioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2024.01.04.574164v1'
+citation: 'Lu, D., et al. (2024). "Integrative Machine Learning Framework for Predicting Drug Response in Cancer Patients." <i>bioRxiv</i>. https://doi.org/10.1101/2024.01.04.574164v1'
+---
+
+This paper presents an integrative machine learning framework designed to predict drug response in cancer patients, offering a new approach to personalized treatment strategies.
+
+[Read the paper on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.04.574164v1)
+
+Recommended citation: Lu, D., et al. (2024). "Integrative Machine Learning Framework for Predicting Drug Response in Cancer Patients." *bioRxiv*. https://doi.org/10.1101/2024.01.04.574164v1
