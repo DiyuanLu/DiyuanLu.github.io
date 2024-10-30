@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Advancing Brain Tumor Detection with Multiple Instance Learning on Magnetic Resonance Spectroscopy Data"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-09-01-brain-tumor-detection
+excerpt: 'This paper discusses the advancement in brain tumor detection using multiple instance learning on MRS data.'
+date: 2023-09-01
+venue: 'International Conference on Artificial Neural Networks'
+paperurl: 'http://academicpages.github.io/files/brain_tumor_detection.pdf'
+citation: 'Lu, D., Kurz, G., Polomac, N., Gacheva, I., Hattingen, E., & Triesch, J. (2023). "Advancing brain tumor detection with multiple instance learning on magnetic resonance spectroscopy data." <i>International Conference on Artificial Neural Networks</i>, 1–12.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This paper discusses the advancement in brain tumor detection using multiple instance learning on MRS data.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/brain_tumor_detection.pdf)
+
+Recommended citation: Lu, D., Kurz, G., Polomac, N., Gacheva, I., Hattingen, E., & Triesch, J. (2023). "Advancing brain tumor detection with multiple instance learning on magnetic resonance spectroscopy data." *International Conference on Artificial Neural Networks*, 1–12.
