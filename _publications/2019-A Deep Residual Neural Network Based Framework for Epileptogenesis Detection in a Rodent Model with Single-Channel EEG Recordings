@@ -1,0 +1,16 @@
+---
+title: "A Deep Residual Neural Network Based Framework for Epileptogenesis Detection in a Rodent Model with Single-Channel EEG Recordings"
+collection: publications
+permalink: /publication/2019-12-01-epileptogenesis-rodent-eeg
+excerpt: 'Framework for epileptogenesis detection in rodents using single-channel EEG.'
+date: 2019-12-01
+venue: 'CISP-BMEI'
+paperurl: 'http://academicpages.github.io/files/epileptogenesis_rodent_eeg.pdf'
+citation: 'Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2019). "A Deep Residual Neural Network Based Framework for Epileptogenesis Detection in a Rodent Model with Single-Channel EEG Recordings." <i>CISP-BMEI</i>, 1–6.'
+---
+
+This paper describes a framework for epileptogenesis detection in a rodent model using single-channel EEG.
+
+[Download paper here](http://academicpages.github.io/files/epileptogenesis_rodent_eeg.pdf)
+
+Recommended citation: Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2019). "A Deep Residual Neural Network Based Framework for Epileptogenesis Detection in a Rodent Model with Single-Channel EEG Recordings." *CISP-BMEI*, 1–6.
