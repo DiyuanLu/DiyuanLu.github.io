@@ -38,9 +38,9 @@ social:
   type                   : "Person"
   name                   : "Diyuan Lu"
   links: 
-    - "diyuan-lu-198567143/"
-    - "https://github.com/DiyuanLu"
-    - "profile/Diyuan-Lu"
+    - "diyuan-lu-198567143"
+    - "DiyuanLu"
+    - "Diyuan-Lu"
     - "0000-0002-9525-4251" # Update ORCID URL if available
 
 # Analytics
@@ -60,9 +60,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YOURID" # Update with your Google Scholar URL
   email            : "diyuan.lu@helmholtz-munich.de"
   researchgate     : "profile/Diyuan-Lu"
-  linkedin         : "diyuan-lu-198567143/"
+  linkedin         : "diyuan-lu-198567143"
   orcid            : "0000-0002-9525-4251"
-  github           : "https://github.com/DiyuanLu"
+  github           : "DiyuanLu"
   twitter          : "replacethistwitterhandle"
 
 # Reading Files
