@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Diyuan Lu / Researcher Profile"
+title                    : "Diyuan Lu / ML for Healthcare"
 title_separator          : "-"
 name                     : &name "Diyuan Lu"
 description              : &description "Researcher focused on machine learning applications in healthcare and precision medicine."
@@ -63,7 +63,7 @@ author:
   linkedin         : "diyuan-lu-198567143"
   orcid            : "0000-0002-9525-4251"
   github           : "DiyuanLu"
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://x.com/diyuan_ruoting"
 
 # Reading Files
 include:
