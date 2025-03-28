@@ -38,10 +38,10 @@ social:
   type                   : "Person"
   name                   : "Diyuan Lu"
   links: 
-    - "diyuan-lu-198567143"
-    - "DiyuanLu"
-    - "Diyuan-Lu"
-    - "0000-0002-9525-4251" # Update ORCID URL if available
+    # - "diyuan-lu-198567143"
+    # - "DiyuanLu"
+    # - "Diyuan-Lu"
+    # - "0000-0002-9525-4251" # Update ORCID URL if available
 
 # Analytics
 analytics:
