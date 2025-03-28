@@ -52,12 +52,12 @@ analytics:
 # Site Author
 author:
   name             : "Diyuan Lu"
-  avatar           : "bio-photo.png"
+  avatar           : "1570094812610.jpeg"
   bio              : "Postdoctoral researcher at Helmholtz Center Munich, specializing in ML applications in healthcare and precision medicine."
   location         : "Munich, Germany"
   employer         : "Helmholtz Center Munich"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=diyuan+lu"
-  googlescholar    : "https://scholar.google.com/citations?user=YOURID" # Update with your Google Scholar URL
+  googlescholar    : "https://scholar.google.com/citations?user=sjZozkwAAAAJ&hl=de" # Update with your Google Scholar URLhttps://scholar.google.de/citations?user=sjZozkwAAAAJ&hl=de
   email            : "diyuan.lu@helmholtz-munich.de"
   researchgate     : "profile/Diyuan-Lu"
   linkedin         : "diyuan-lu-198567143"
