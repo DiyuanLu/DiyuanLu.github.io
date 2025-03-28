@@ -38,10 +38,10 @@ social:
   type                   : "Person"
   name                   : "Diyuan Lu"
   links: 
-    - "https://www.linkedin.com/in/diyuan-lu-198567143/"
+    - "diyuan-lu-198567143/"
     - "https://github.com/DiyuanLu"
-    - "https://www.researchgate.net/profile/Diyuan-Lu"
-    - "https://orcid.org/0000-0002-9525-4251" # Update ORCID URL if available
+    - "profile/Diyuan-Lu"
+    - "0000-0002-9525-4251" # Update ORCID URL if available
 
 # Analytics
 analytics:
