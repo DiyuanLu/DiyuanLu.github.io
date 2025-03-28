@@ -39,9 +39,9 @@ social:
   name                   : "Diyuan Lu"
   links: 
     - "https://www.linkedin.com/in/diyuan-lu-198567143/"
-    - "https://github.com/diyuanlu"
+    - "https://github.com/DiyuanLu"
     - "https://www.researchgate.net/profile/Diyuan-Lu"
-    - "https://orcid.org/yourorcidurl" # Update ORCID URL if available
+    - "https://orcid.org/0000-0002-9525-4251" # Update ORCID URL if available
 
 # Analytics
 analytics:
@@ -52,17 +52,17 @@ analytics:
 # Site Author
 author:
   name             : "Diyuan Lu"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "Postdoctoral researcher at Helmholtz Center Munich, specializing in ML applications in healthcare and precision medicine."
   location         : "Munich, Germany"
   employer         : "Helmholtz Center Munich"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=diyuan+lu"
   googlescholar    : "https://scholar.google.com/citations?user=YOURID" # Update with your Google Scholar URL
-  email            : "diyuan.lu@helmholtz-muenchen.de"
+  email            : "diyuan.lu@helmholtz-munich.de"
   researchgate     : "https://www.researchgate.net/profile/Diyuan-Lu"
   linkedin         : "https://www.linkedin.com/in/diyuan-lu-198567143/"
-  orcid            : "https://orcid.org/yourorcidurl"
-  github           : "diyuanlu"
+  orcid            : "https://orcid.org/0000-0002-9525-4251"
+  github           : "https://github.com/DiyuanLu"
   twitter          : "replacethistwitterhandle"
 
 # Reading Files
