@@ -1,16 +1,16 @@
 ---
-title: "Integrative Machine Learning Framework for Predicting Drug Response in Cancer Patients"
+title: "Interpretable Multimodal Machine Learning (IMML) Framework Reveals Pathological Signatures of Distal Sensorimotor Polyneuropathy"
 collection: publications
-permalink: /publication/2024-01-04-predicting-drug-response
-excerpt: 'An integrative machine learning approach to predict drug response in cancer patients.'
-date: 2024-01-04
-venue: 'bioRxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2024.01.04.574164v1'
-citation: 'Lu, D., et al. (2024). "Integrative Machine Learning Framework for Predicting Drug Response in Cancer Patients." <i>bioRxiv</i>. https://doi.org/10.1101/2024.01.04.574164v1'
+permalink: /publication/imml-dspn/
+date: 2024-12-16
+venue: "Communications Medicine"
+paperurl: "https://www.nature.com/articles/s43856-024-00637-1"
+citation: "Nguyen, P. B., Garger, D., Lu, D., Maalmi, H., Prokisch, H., Thorand, B., Adamski, J., Kastenmüller, G., Waldenberger, M., Gieger, C., et al. (2024). Interpretable multimodal machine learning (IMML) framework reveals pathological signatures of distal sensorimotor polyneuropathy. *Communications Medicine*, 4(1), 1–12."
 ---
+
 
 This paper presents an integrative machine learning framework designed to predict drug response in cancer patients, offering a new approach to personalized treatment strategies.
 
-[Read the paper on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.04.574164v1)
+[Read the paper on https://www.nature.com/articles/s43856-024-00637-1]
 
 Recommended citation: Lu, D., et al. (2024). "Integrative Machine Learning Framework for Predicting Drug Response in Cancer Patients." *bioRxiv*. https://doi.org/10.1101/2024.01.04.574164v1
