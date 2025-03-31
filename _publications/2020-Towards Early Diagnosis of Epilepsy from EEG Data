@@ -1,16 +1,12 @@
 ---
 title: "Towards Early Diagnosis of Epilepsy from EEG Data"
 collection: publications
-permalink: /publication/2020-07-01-early-diagnosis-epilepsy
 excerpt: 'Aims for early diagnosis of epilepsy from EEG data.'
 date: 2020-07-01
 venue: 'Machine Learning for Healthcare Conference'
-paperurl: 'http://academicpages.github.io/files/early_diagnosis_epilepsy.pdf'
-citation: 'Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2020). "Towards Early Diagnosis of Epilepsy from EEG Data." <i>Machine Learning for Healthcare Conference</i>, 80–96.'
+image: "/images/2020-TowardsEPG.png"
+links:
+  - label: Paper
+    url: https://ieeexplore.ieee.org/document/8965693
+citation: 'Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2019). "A Deep Residual Neural Network Based Framework for Epileptogenesis Detection in a Rodent Model with Single-Channel EEG Recordings." <i>CISP-BMEI</i>, 1–6.'
 ---
-
-This study targets early epilepsy diagnosis using EEG data.
-
-[Download paper here](http://academicpages.github.io/files/early_diagnosis_epilepsy.pdf)
-
-Recommended citation: Lu, D., Bauer, S., Neubert, V., Costard, L. S., Rosenow, F., & Triesch, J. (2020). "Towards Early Diagnosis of Epilepsy from EEG Data." *Machine Learning for Healthcare Conference*, 80–96.

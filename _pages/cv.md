@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -35,7 +35,10 @@ Work Experience
 Skills
 ======
 * Languages: English, Mandarin Chinese  
-* Research: Deep learning, data analysis, data visualization, academic writing, public speaking, project management  
+* Research Topics: Deep learning, Data Analysis, Precision Oncology, Drug Response Prediction, Biomarker Discovery, 
+  Patient Stratification, Multimodal Data Integration, Preclinical-to-Clinical Translation 
+* Research Practices: Scientific Writing & Publishing, Reviewer at Nature journals, Conference 
+  Presentations, Cross-disciplinary Collaboration, Student Mentoring & Supervision
 
 Publications
 ======
@@ -43,11 +46,6 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Talks
-======
-<ul>{% for post in site.talks %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
 
 Selected Talks and Posters
 ======

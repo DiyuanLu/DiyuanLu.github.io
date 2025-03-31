@@ -6,7 +6,7 @@ name                     : &name "Diyuan Lu"
 description              : &description "Researcher focused on machine learning applications in healthcare and precision medicine."
 url                      : https://diyuanlu.github.io # Update if using a custom domain
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/DiyuanLu/DiyuanLu.github.io" ## "academicpages/academicpages.github.io"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -38,10 +38,10 @@ social:
   type                   : "Person"
   name                   : "Diyuan Lu"
   links: 
-    # - "diyuan-lu-198567143"
-    # - "DiyuanLu"
-    # - "Diyuan-Lu"
-    # - "0000-0002-9525-4251" # Update ORCID URL if available
+     - "diyuan-lu-198567143"
+     - "DiyuanLu"
+     - "Diyuan-Lu"
+     - "https://orcid.org/0000-0002-9525-4251" # Update ORCID URL if available
 
 # Analytics
 analytics:
@@ -58,10 +58,10 @@ author:
   employer         : "Helmholtz Center Munich"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=diyuan+lu"
   googlescholar    : "https://scholar.google.com/citations?user=sjZozkwAAAAJ&hl=de" # Update with your Google Scholar URLhttps://scholar.google.de/citations?user=sjZozkwAAAAJ&hl=de
-  email            : "diyuan.lu@helmholtz-munich.de"
-  researchgate     : "profile/Diyuan-Lu"
+  email            : "diyuanlu0922@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Diyuan-Lu"
   linkedin         : "diyuan-lu-198567143"
-  orcid            : "0000-0002-9525-4251"
+  orcid            : "https://orcid.org/0000-0002-9525-4251"
   github           : "DiyuanLu"
   twitter          : "https://x.com/diyuan_ruoting"
 

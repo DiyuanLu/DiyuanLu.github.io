@@ -1,31 +1,30 @@
-<div style="display: flex; margin-bottom: 2em;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
   {% if post.image %}
-    <div style="flex: 0 0 150px; margin-right: 20px;">
-      <img src="{{ post.image | relative_url }}" alt="Figure for {{ post.title }}" style="width:100%; border-radius: 6px;">
+    <div style="flex: 0 0 100px; margin-right: 15px;">
+      <img src="{{ post.image | relative_url }}" alt="Image for {{ post.title }}" style="width:100%; border-radius: 4px;">
     </div>
   {% endif %}
-  <div style="flex: 1;">
-    <h3 style="margin-top:0;">
-      <a href="{{ post.paperurl | default: post.url | relative_url }}" target="_blank">
+  <div style="flex: 1; font-size: 0.95em; line-height: 1.4;">
+    <p style="margin: 0; font-weight: 600;">
+      <a href="{{ post.paperurl | default: post.url | relative_url }}" target="_blank" style="text-decoration: none; color: #0055aa;">
         {{ post.title }}
       </a>
-    </h3>
-    <p><strong>{{ post.citation }}</strong></p>
-    <p><em>{{ post.venue }}, {{ post.date | date: "%Y" }}</em></p>
+    </p>
+    <p style="margin: 2px 0;">
+      {{ post.citation }}
+    </p>
+    <p style="margin: 2px 0; font-style: italic;">
+      {{ post.venue }}, {{ post.date | date: "%Y" }}
+    </p>
     {% if post.links %}
-      <p>
+      <p style="margin: 2px 0;">
         {% for link in post.links %}
-          <a href="{{ link.url }}" target="_blank">[{{ link.label }}]</a>
+          <a href="{{ link.url }}" target="_blank" style="color: #0055aa;">[{{ link.label }}]</a>{% unless forloop.last %} · {% endunless %}
         {% endfor %}
       </p>
     {% endif %}
-    {% if post.tags %}
-      {% for tag in post.tags %}
-        <p style="color:#c0392b; font-weight:bold; margin-bottom:0;">{{ tag }}</p>
-      {% endfor %}
-    {% endif %}
     {% if post.summary %}
-      <p>{{ post.summary }}</p>
+      <p style="margin: 4px 0; color: #444;">{{ post.summary }}</p>
     {% endif %}
   </div>
 </div>
