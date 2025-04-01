@@ -53,10 +53,9 @@ Selected Talks and Posters
 * 2024: Helmholtz AI Conference, Düsseldorf – *AI applications in precision oncology*  
 * 2022: European Epilepsy Congress, Geneva – *Real-time biosignal processing with ML*  
 * 2021: MLHC – *Diagnosing Epileptogenesis with Deep Anomaly Detection*  
-* 2020: MLHC – *Early Diagnosis of Epilepsy from EEG Data*  
-
-* 2024 (Poster): RECOMB, Boston – *Stratifying drug responses in cancer using deep learning*  
-* 2021 (Poster): NeurIPS New in ML – *Epilepsy diagnosis with anomaly detection*  
+* 2020: MLHC – *Early Diagnosis of Epilepsy from EEG Data*
+* 2024 (Poster): RECOMB, Boston – *Enhancing gene expression representation learning with data augmentation for drug response prediction*  
+* 2021 (Poster): NeurIPS New in ML – *Epilepsy early diagnosis with anomaly detection*  
 * 2021 (Poster): ICLR AI for Public Health – *Personalized treatment evaluation with ML*
 
 
