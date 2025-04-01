@@ -26,7 +26,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "replacethistwitterhandle"
+  username               : "diyuan_ruoting"
 facebook:
   username               :
   app_id                 :
@@ -38,10 +38,10 @@ social:
   type                   : "Person"
   name                   : "Diyuan Lu"
   links: 
-     - "diyuan-lu-198567143"
-     - "DiyuanLu"
-     - "Diyuan-Lu"
-     - "https://orcid.org/0000-0002-9525-4251" # Update ORCID URL if available
+#     - "diyuan-lu-198567143"
+#     - "DiyuanLu"
+#     - "Diyuan-Lu"
+#     - "https://orcid.org/0000-0002-9525-4251" # Update ORCID URL if available
 
 # Analytics
 analytics:
@@ -63,7 +63,7 @@ author:
   linkedin         : "diyuan-lu-198567143"
   orcid            : "https://orcid.org/0000-0002-9525-4251"
   github           : "DiyuanLu"
-  twitter          : "https://x.com/diyuan_ruoting"
+  twitter          : "diyuan_ruoting"
 
 # Reading Files
 include:
