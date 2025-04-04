@@ -30,7 +30,8 @@ Work Experience
   * 2024 (Master Thesis), TUM – Drug response prediction using augmented transcriptomics  
   * 2024 (Bachelor Thesis), TUM – Subtype discovery with gene expression augmentation  
   * 2022 (DAAD Intern) – EEG-based patient progression modeling  
-  * 2021 (Bachelor Thesis), Goethe University – ML for epilepsy treatment evaluation  
+  * 2021 (Master Thesis), Sapienza Università di Roma – Early epilepsy staging with deep learning  
+  * 2021 (Bachelor Thesis), Goethe University – ML for epilepsy treatment evaluation 
 
 Skills
 ======

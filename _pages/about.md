@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Diyuan Lu, a postdoctoral researcher at [**Helmholtz Center Munich**](https://www.helmholtz-munich.
-de/en/icb/research-groups/menden-lab), working at the intersection of machine 
+Hi, I’m Diyuan Lu, a postdoctoral researcher at [**Helmholtz Center Munich**](https://www.helmholtz-munich.de/en/icb/research-groups/menden-lab), working at the intersection of machine 
 learning and precision medicine with [A/Prof. Michael P. Menden](https://findanexpert.unimelb.edu.au/profile/1048557-michael-menden).
 
-During my PhD at the Frankfurt Institute for Advanced Studies under [Prof. Jochen Triesch](https://www.fias.
-science/en/life-and-neurosciences/research-groups/jochen-triesch/), I focused on developing 
+During my PhD at the Frankfurt Institute for Advanced Studies under [Prof. Jochen Triesch](https://www.fias.science/en/life-and-neurosciences/research-groups/jochen-triesch/), I focused on developing 
 machine learning methods for processing complex biosignals, such as EEG data for the **early diagnosis of epilepsy** and 
 MRS (magnetic resonance spectroscopy) for **brain tumor** classification.
 This experience sparked my broader interest in how 
